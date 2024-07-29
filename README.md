@@ -12,19 +12,10 @@
 
 #### 📚 Um pouco dos meus conhecimentos...
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" height="40px" alt="Python" />
-<!-- <img width="1" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40px" alt="Python" />
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40px" alt="C" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40px" alt="Java"/>
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px" alt="HTML5"/>
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px" alt="CSS"/>
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px" alt="Javascript"/>
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40px" alt="Oracle SQL"/>
 
 <div align="center">
   <a href="https://github.com/AndreMdeFreitas">
