@@ -13,9 +13,9 @@
 #### 📚 Um pouco dos meus conhecimentos...
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
-<img width="8" />
+<!-- <img width="1" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img width="8" />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40px" alt="Java"/>
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px" alt="HTML5"/>
