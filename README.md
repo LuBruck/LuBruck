@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Lucas!
 #### 👀 Tenho interesse em diversas tecnologias e adoro aprender novas habilidades.
-#### 🌱 Eu estou atualmente cursando a graduação de engenharia da computação na UTFPR.
+#### 🌱 Atualmente cursando a graduação de engenharia da computação na UTFPR.
 #### 📫 Entre em contato comigo pelo seguinte email:
 - bruck1504@gmail.com
 #### 💼 Conecte-se comigo no LinkedIn!
