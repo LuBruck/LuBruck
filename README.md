@@ -16,6 +16,8 @@
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40px" alt="C" />
 <img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px" alt="Java"/>
+<img width="8" />          
 
 <div align="center">
   <a href="https://github.com/LuBruck">
